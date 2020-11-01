@@ -18,3 +18,5 @@ app.post('/tacos', (req, res) => {
 app.listen(1008, () => {
     console.log('listening on 1008');
 })
+
+console.log("Karem is a nice teacher.... I really wanna kiss her...")
